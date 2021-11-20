@@ -1,0 +1,239 @@
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+.hero-cnt h2 {
+	font-size: 35.16px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+/*
+https://www.figma.com/file/sbpHksjRCLiSwq0yUEP8sw/Untitled?node-id=0%3A1*/
+
+
+
+
+
+/*==========================
+	For tablet screen 
+==========================*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+
+ 	.hero-cnt h2 br {
+		display: none;
+		}
+
+
+	.social-right {
+	    margin: 0 127px;
+		}
+
+	.design-item {
+	    padding-top: 10px;
+	    padding-bottom: 78px;
+		}
+
+	.nullam-item h3 br {
+		display: none;
+		}
+
+	.nullam-item p br {
+		display: none;
+		}
+	.nullam-item {
+		text-align: center;
+		}
+
+	.Nullam {
+		padding-top: 45px;
+		padding-bottom: 0px;
+		}	
+
+	.poeple-area {
+		padding-top: 45px;
+		padding-bottom: 40px;
+		}
+
+	.social-item ul li a {
+		font-size: 20px;
+		padding: 5px 5px;;
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+/*==========================
+	For mobile screen 
+==========================*/
+@media screen and (max-width: 767px) {
+
+	.menu-area ul {
+		display: none;
+		}
+
+	.mobile-menubar {
+		text-align: right;
+		display: block;
+	    }
+
+	.hero-cnt h2 {
+		font-size: 32.16px;
+		
+		}
+
+	.hero-cnt h2 br {
+			display: none;
+		}
+
+	.hero-cnt {
+		padding-top: 100px;
+		padding-bottom: 73px;
+		margin: auto;
+		}
+
+
+	.social-right {
+	    text-align: center;
+	    margin: 0 127px;
+		}
+
+	.design-item {
+	    padding-top: 10px;
+	    padding-bottom: 78px;
+		}
+
+	.skills p br {
+		display: none;
+		}
+
+
+	.portfolio-apps ul {
+		display: none;
+		}
+
+	.mobile-menubar-1 {
+		text-align: right;
+		display: block;
+	    }
+
+	.nullam-item h3 br {
+		display: none;
+		}
+
+	.nullam-item p br {
+		display: none;
+		}
+
+	.nullam-item {
+		text-align: center;
+		}
+
+	.Nullam {
+		padding-top: 35px;
+		padding-bottom: 0px;
+		}	
+
+	.poeple-area {
+		padding-top: 45px;
+		padding-bottom: 40px;
+		}
+
+	.service h2 {
+		font-size: 30px;
+		}
+
+	.beautiful h2 {
+		font-size: 30px;
+		}
+		
+	.skills h2 {
+		font-size: 30px;
+		}
+		
+
+	.portfolio h2 {
+		font-size: 30px;
+		}
+
+	.poeple-area h2 {
+		font-size: 30px;
+		}
+
+	.get-in-touch h2 {
+		font-size: 30px;
+		}
+
+
+	.from input {
+	   width: 80%;
+		}
+
+	.from textarea {
+	    width: 80%;
+		}
+
+	.social-item ul {
+		display: none;
+		}
+
+	.mobile-menubar-2 {
+		text-align: right;
+		display: block;
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
